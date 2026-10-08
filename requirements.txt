@@ -1,0 +1,14 @@
+# HTTP / парсинг
+requests==2.31.0
+beautifulsoup4==4.12.3
+
+# Конфиг
+python-dotenv==1.0.1
+
+# Медиа
+Pillow
+yt-dlp
+isodate==0.6.1
+
+# Браузер
+DrissionPage>=4.0.0
